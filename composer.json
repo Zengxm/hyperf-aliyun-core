@@ -1,5 +1,5 @@
 {
-    "name": "ezijing/aliyun-core",
+    "name": "imee/aliyun-core",
     "description": "AliYun Core For Hyperf",
     "keywords": [
         "php",
@@ -9,14 +9,14 @@
         "core"
     ],
     "require": {
-        "php": ">=7.2",
-        "hyperf/contract": "~2.0.0",
-        "hyperf/guzzle": "~2.0.0",
-        "hyperf/server": "~2.0.0",
-        "psr/container": "~1.0.0"
+        "php": ">=8.1",
+        "hyperf/contract": "~3.1.0",
+        "hyperf/guzzle": "~3.1.0",
+        "hyperf/server": "~3.1.0",
+        "psr/container": "^1.0 || ^2.0"
     },
     "require-dev": {
-        "php": ">=7.2"
+        "php": ">=8.1"
     },
     "license": "MIT",
     "authors": [
